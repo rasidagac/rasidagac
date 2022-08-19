@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying on **Computer Engineering**
 
-- 🌱 I’m currently learning **Javascript and Flutter**
+- 🌱 I’m currently learning **Javascript and Python**
 
 - 📫 How to reach me **contact@rasitagac.com**
 
