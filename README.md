@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Javascript and Python**
 
-- 📫 How to reach me **contact@rasitagac.com**
+- 📫 How to reach me **hello@rasidagac.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
