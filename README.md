@@ -113,7 +113,7 @@
     <td align="center">
       <a href="https://app.daily.dev/rasidagac"
         ><img
-          src="https://github.com/rasidagac/rasidagac/blob/master/devcard.svg"
+          src="https://github.com/rasidagac/rasidagac/blob/main/devcard.svg"
           width="350"
           alt="M. Raşid Ağaç's Dev Card"
       /></a>
