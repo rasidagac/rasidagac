@@ -110,7 +110,7 @@
         </a>
       </p>
     </td>
-    <td style="text-aling: center;">
+    <td align="center">
       <a href="https://app.daily.dev/rasidagac"
         ><img
           src="https://api.daily.dev/devcards/814ef75d963e485d8ff2b67b72cfab2a.png?r=z7n"
