@@ -6,7 +6,7 @@
     alt="rasitagac"
   />
 </p>
-<table style="display: table; width: %100;">
+<table>
   <tr>
     <td>
       <ul>
