@@ -6,20 +6,17 @@
     alt="rasitagac"
   />
 </p>
-<table>
-  <tr>
-    <td>
       <ul>
-        <li>🔭 I’m currently graduated on <b>Computer Engineering</b></li>
-        <li>🌱 I’m currently working with <b>Javascript and Node.js</b></li>
+        <li>🔭 I’m graduated from <b>Computer Science Engineering</b></li>
+        <li>🌱 I’m currently working with <b>Javascript and Java</b></li>
         <li>
           📫 How to reach me
-          <a href="mailto:hello@rasidagac.com"><b>hello@rasidagac.com</b></a>
+          <a href="mailto:agacrasid@outlook.com"><b>agacrasid@outlook.com</b></a>
         </li>
       </ul>
       <h3 align="left">Connect with me:</h3>
       <p align="left">
-        <a href="https://linkedin.com/in/mragac" target="blank"
+        <a href="https://linkedin.com/in/rasidagac" target="blank"
           ><img
             align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -40,18 +37,6 @@
       </p>
       <h3 align="left">Languages and Tools:</h3>
       <p align="left">
-        <a
-          href="https://developer.android.com"
-          target="_blank"
-          rel="noreferrer"
-        >
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-            alt="android"
-            width="40"
-            height="40"
-          />
-        </a>
         <a
           href="https://www.w3schools.com/css/"
           target="_blank"
@@ -100,23 +85,4 @@
             height="40"
           />
         </a>
-        <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg"
-            alt="python"
-            width="40"
-            height="40"
-          />
-        </a>
       </p>
-    </td>
-    <td align="center">
-      <a href="https://app.daily.dev/rasidagac"
-        ><img
-          src="https://github.com/rasidagac/rasidagac/blob/main/devcard.svg"
-          width="350"
-          alt="M. Raşid Ağaç's Dev Card"
-      /></a>
-    </td>
-  </tr>
-</table>
