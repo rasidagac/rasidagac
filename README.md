@@ -1,88 +1,62 @@
-<h1 align="center">Hi 👋, I'm Raşid</h1>
-<h3 align="center">A passionate frontend engineer from Turkey</h3>
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=rasitagac&label=Profile%20views&color=0e75b6&style=flat"
-    alt="rasitagac"
-  />
+<!-- Your title -->
+## Hi, I'm Rasid Agac, an Engineer 🚀 from Turkey.
+
+<!-- Your badges
+You can use the website to generate badges: https://shields.io/
+-->
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/rasidagac)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rasidagac/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:agacrasit@gmail.com)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:agacrasid@outlook.com)
+
+&nbsp;
+
+<!-- Talking about you -->
+**Talking about Personal Stuffs:**
+
+<!-- Any image aligned to the right. Beware the width -->
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 👨🏽‍💻 I’m currently working at [Getir](https://getir.com/);
+- 🌱 I’m currently learning Java, Spring Boot and NextJs; 
+- 🤔 I’m looking for help with Design Pattern 😭;
+- 💬 Ask me about anything, I am happy to help;
+- ⚡️ Fun-Fact: I am really interested in psychology;
+- 📫 How to reach me: agacrasid@outlook.com;
+
+**Languages and Tools:** 
+
+<!-- Your github readme stats
+You can use this api: https://github.com/anuraghazra/github-readme-stats
+-->
+<p>
+  <a href="https://github.com/onimur/handle-path-oz">
+    <img width="55%" align="right" alt="Rasid's github stats" src="https://github-readme-stats.vercel.app/api?username=rasidagac&show_icons=true&hide_border=true" />
+  </a>
+
+  <!-- Your languages and tools. Be careful with the alignment. 
+  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  -->
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
 </p>
-      <ul>
-        <li>🔭 I’m graduated from <b>Computer Science Engineering</b></li>
-        <li>🌱 I’m currently working with <b>Javascript and Java</b></li>
-        <li>
-          📫 How to reach me
-          <a href="mailto:agacrasid@outlook.com"><b>agacrasid@outlook.com</b></a>
-        </li>
-      </ul>
-      <h3 align="left">Connect with me:</h3>
-      <p align="left">
-        <a href="https://linkedin.com/in/rasidagac" target="blank"
-          ><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="mragac"
-            height="30"
-            width="40"
-        /></a>
-        <a
-          href="https://open.spotify.com/user/agacrasit?si=a7c4f36ac55c4615"
-          target="blank"
-          ><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg"
-            alt="agacrasit"
-            height="30"
-            width="40"
-        /></a>
-      </p>
-      <h3 align="left">Languages and Tools:</h3>
-      <p align="left">
-        <a
-          href="https://www.w3schools.com/css/"
-          target="_blank"
-          rel="noreferrer"
-        >
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3"
-            width="40"
-            height="40"
-          />
-        </a>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5"
-            width="40"
-            height="40"
-          />
-        </a>
-        <a href="https://www.java.com" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-            alt="java"
-            width="40"
-            height="40"
-          />
-        </a>
-        <a
-          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-          target="_blank"
-          rel="noreferrer"
-        >
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript"
-            width="40"
-            height="40"
-          />
-        </a>
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg"
-            alt="React.js"
-            width="40"
-            height="40"
-          />
-        </a>
-      </p>
+
+<!-- Your hits or visitors
+site: http://hits.dwyl.com or https://visitor-badge.glitch.me
+Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
+-->
+<p align="center">
+  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/rasidagac/rasidagac.svg" />
+</p>
+
+<!-- This readme was created by Murillo Comino - https://github.com/onimur -->
