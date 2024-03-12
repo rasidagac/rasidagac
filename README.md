@@ -50,12 +50,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
 </p>
 
-<!-- Your hits or visitors
-site: http://hits.dwyl.com or https://visitor-badge.glitch.me
-Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
--->
-<p>
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/rasidagac/rasidagac.svg" />
-</p>
+![Wakatime Hours](https://lucky-gnu-15.deno.dev/api/badge?style=for-the-badge)
 
 <!-- This readme was created by Murillo Comino - https://github.com/onimur -->
